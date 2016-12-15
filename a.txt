@@ -1,6 +1,2 @@
 asdf.txt
-<<<<<<< HEAD
 this is a new LINE
-=======
-this is a new line 
->>>>>>> dev
